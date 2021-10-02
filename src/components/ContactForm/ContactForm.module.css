@@ -1,0 +1,36 @@
+.input {
+  height: 20px;
+  border-radius: 6px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  width: 200px;
+  font-size: 18px;
+}
+.input:focus,
+:hover {
+  border-color: #0003ba;
+}
+.input:focus {
+  outline: none;
+}
+.span {
+  display: block;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.btn {
+  cursor: pointer;
+  width: 100px;
+  border: none;
+  color: white;
+  padding: 5px;
+  margin-bottom: 15px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #00ba0f;
+  font-size: 15px;
+  border-radius: 6px;
+}
