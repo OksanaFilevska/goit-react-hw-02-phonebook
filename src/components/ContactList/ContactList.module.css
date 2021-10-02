@@ -1,0 +1,25 @@
+.list {
+  margin-left: 30px;
+  font-size: 20px;
+  text-align: start;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.btnList {
+  cursor: pointer;
+  width: 60px;
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #ca2f1b;
+  font-size: 14px;
+  border-radius: 6px;
+}
