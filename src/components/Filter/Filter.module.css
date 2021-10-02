@@ -1,0 +1,28 @@
+.label {
+  padding: 5px 20px;
+}
+
+.span {
+  display: block;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-left: 5px;
+  padding-bottom: 20px;
+}
+
+.input {
+  height: 20px;
+  margin-left: 5px;
+  border-radius: 6px;
+  padding-left: 10px;
+  cursor: pointer;
+  width: 200px;
+  font-size: 18px;
+}
+.input:focus,
+:hover {
+  border-color: #0003ba;
+}
+.input:focus {
+  outline: none;
+}
